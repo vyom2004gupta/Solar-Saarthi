@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom font imports if needed */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+/* Any minimal resets not covered by Tailwind */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Print styles */
+@media print {
+  /* Hide non-essential elements */
+  nav,
+  button,
+  .bg-purple-500,
+  .bg-purple-600 {
+    display: none !important;
+  }
+
+  /* Ensure the report content takes full page */
+  body {
+    margin: 0;
+    padding: 20px;
+    background: white !important;
+    color: black !important;
+  }
+
+  /* Make text black for better printing */
+  * {
+    color: black !important;
+    text-align: left;
+  }
+
+  /* Ensure charts are visible */
+  canvas {
+    max-width: 100% !important;
+    height: auto !important;
+  }
+
+  /* Add page breaks where needed */
+  .page-break {
+    page-break-before: always;
+  }
+
+  /* Ensure proper margins */
+  @page {
+    margin: 2cm;
+  }
+}
