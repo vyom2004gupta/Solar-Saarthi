@@ -14,32 +14,54 @@
 🖼️ Screenshots
 
   <p align="center">
-    <img src="Screenshots/Homepage1.png" width="600" alt="Homepage Screenshot"/>
+    <img src="Screenshots/Homepage1.png.png" width="600" alt="Homepage Screenshot"/>
     <br/>
-    <img src="Screenshots/solarmap.png" width="600" alt="Analysis Screenshot"/>
+    <img src="Screenshots/solarmap.png.png" width="600" alt="Analysis Screenshot"/>
     <br/>
-    <img src="Screenshots/chatbot.png" width="600" alt="Analysis Screenshot"/>
+    <img src="Screenshots/chatbot.png.png" width="600" alt="Analysis Screenshot"/>
     <br/>
-    <img src="Screenshots/calculate1.png" width="600" alt="Analysis Screenshot"/>
+    <img src="Screenshots/calculate1.png.png" width="600" alt="Analysis Screenshot"/>
     <br/>
-    <img src="Screenshots/calculate2.png" width="600" alt="Analysis Screenshot"/>
+    <img src="Screenshots/calculate2.png.png" width="600" alt="Analysis Screenshot"/>
     <br/>
-    <img src="Screenshots/results1.png" width="600" alt="Analysis Screenshot"/>
+    <img src="Screenshots/results1.png.png" width="600" alt="Analysis Screenshot"/>
     <br/>
-    <img src="Screenshots/results2.png" width="600" alt="Analysis Screenshot"/>
+    <img src="Screenshots/results2.png.png" width="600" alt="Analysis Screenshot"/>
     <br/>
-    <img src="Screenshots/results3.png" width="600" alt="Analysis Screenshot"/>
+    <img src="Screenshots/results3.png.png" width="600" alt="Analysis Screenshot"/>
     <br/>
-    <img src="Screenshots/finance1.png" width="600" alt="Analysis Screenshot"/>
+    <img src="Screenshots/finance1.png.png" width="600" alt="Analysis Screenshot"/>
     <br/>
-    <img src="Screenshots/finance2.png" width="600" alt="Analysis Screenshot"/>
+    <img src="Screenshots/finance2.png.png" width="600" alt="Analysis Screenshot"/>
     <br/>
-    <img src="Screenshots/profile.png" width="600" alt="Analysis Screenshot"/>
+    <img src="Screenshots/profile.png.png" width="600" alt="Analysis Screenshot"/>
   </p>
   
-🛠️ Tech Stack
-Frontend:  React.js, Tailwind CSS, React Router, Axious , Chart.js , jsPDF , html2canvas
-Backend: FastAPI, Python, XGBoost, Pydantic, joblib , scikit-learn
-Database: Supabase (PostgreSQL)
-APIs: OpenWeather API , Google Gemini API
-MLModel: XGBoost Regression Model
+🛠️ **Tech Stack**
+
+**Frontend**  
+React.js  
+Tailwind CSS  
+React Router  
+Axios  
+Chart.js  
+jsPDF  
+html2canvas  
+
+**Backend**  
+FastAPI  
+Python  
+XGBoost  
+Pydantic  
+joblib  
+scikit-learn  
+
+**Database**  
+Supabase (PostgreSQL)  
+
+**APIs**  
+OpenWeather API  
+Google Gemini API  
+
+**ML Model**  
+XGBoost Regression Model
