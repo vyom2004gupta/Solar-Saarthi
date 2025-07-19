@@ -30,7 +30,7 @@
     <br/>
     <img src="Screenshots/results3.png.png" width="600" alt="Analysis Screenshot"/>
     <br/>
-    <img src="Screenshots/finance1.png.png" width="600" alt="Analysis Screenshot"/>
+    <img src="Screenshots/finance.png.png" width="600" alt="Analysis Screenshot"/>
     <br/>
     <img src="Screenshots/finance2.png.png" width="600" alt="Analysis Screenshot"/>
     <br/>
